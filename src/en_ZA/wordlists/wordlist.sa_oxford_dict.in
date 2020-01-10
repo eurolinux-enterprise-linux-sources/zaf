@@ -1,0 +1,198 @@
+# wordlist.sa_oxford.dict.in - South African word validated against
+# the South African Concise Oxford Dictionary
+#
+# Copyright (C) 2005 Zuza Software Foundation
+#
+# This library is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License as published by the Free Software Foundation; either
+# version 2.1 of the License, or (at your option) any later version.
+#
+# This library is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public
+# License along with this library; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+#
+# Notes: 
+# * This word list has been created by finding South Africanisms and checking them
+#   against the SA Oxford Dictionary.  This is not verbatum copying.  Words are found
+#   by authoring documents and emails in South African English.  By submissions to
+#   our suggestion box and by online spell checking.
+# * variant spellings are not included
+# * where there are equily acceptable spelling one has been chosen, 
+#   others are indicated
+# * informal or slang words have been avoided unless they are in quite common use
+# * derogitory words have been excluded (some are included, so that you know 
+#   that the list knows that they exist, but have been commented out).  They may
+#   be added to spellcheckers that allow us to mark such words.
+#
+abakhwetha
+abakhwethas
+ABET
+Adv.
+amahubo
+amakhosi
+antiretroviral
+ARV
+biltong
+bosberaad
+bosberade
+braai
+braaied
+braaing
+braais
+braaivleis
+bushveld
+bushwillow
+Codesa
+conflict diamond
+data mining
+# F
+fundi
+fundis
+gogga
+imbizo
+imbongi
+indlamu
+ingcibi
+ingoma
+inquorate
+insangu
+inyanga
+isiNdebele
+isit
+izzit
+isiXhosa
+isiZulu
+# K (this has been thoroughly reviews up till the last entry of K in this section)
+kaalgat
+kabeljou
+Kaapenaar
+# This word Kaffir is here so that you know its not missing. The SACOD advises that the use of the
+# word is actionable. Its loss we feel is no real loss.
+#Kaffir
+kanna
+kappie
+karos
+karroid
+kgotia
+khalifa
+kiepersol
+kist
+koekoek
+koeksister
+# koeksuster
+kwela-kwela
+# L
+laager
+laaitie
+laatlammetjie
+Labarang
+lamington
+landdrost
+# L....
+lekgotla
+lekker
+lilangeni
+# M
+manne
+marabi
+matric
+matric exemption
+matriculant
+matriculate
+matriculation
+mbaqanga
+mbira
+MEC
+medical aid
+# medicine man
+inyanga
+sangoma
+meerkat
+meisie
+melktert
+meneer
+mevrou
+Mfecane
+Mfengu
+mgqashiyo
+middelmannetjie
+middleveld
+miff
+miffed
+# miggie
+milk tart
+mine captain
+mine dump
+minibus taxi
+MK
+Umkhonto we Sizwe
+M-Net
+# Check between these
+moegoe
+moer
+moerse
+moffie
+moggy
+movie
+movies
+off-sales
+off-ramp
+play-play
+potjie
+potjiekos
+Randlord
+red-bait
+skottel
+technikon
+timeous
+timeously
+Tiptronic
+toenadering
+toppie
+troopie
+# troepie (alternate spelling)
+trommel
+tsotsi
+tsotsis
+Tsotsitaal
+ubuntu
+umkhwetha
+upliftment
+# veld: also veldt
+veld
+# veldskoen: also velskoen
+veldskoene
+veldskoens
+veldskoen
+# Venda: and related words
+Venda
+Vendas
+# Tshivenda - this is listed in the dictionary but its actually the wrong spelling the correct as the dicritic d
+Tshivenda
+verkramp
+verkrampte
+verlig
+verligte
+Verwoerdian
+vetkoek
+Vlakplaas
+# voetsak: also voetsek
+voetsak
+# voetstoots: also voetsoets
+voetstoots
+volk
+volke
+# vooma: also voema, woema
+vooma
+Voortrekker
+voorskot
+vrot
+vygie
+zol
+Zozo hut

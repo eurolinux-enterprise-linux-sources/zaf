@@ -1,0 +1,890 @@
+# wordlist.internetterms.in - Afrikaans (af) Internet and computer terms
+#
+# Encoding: 
+#
+# Copyright (C) 1998 Samuel Murray <leuce@geocities.com>
+#
+# Notes:
+# Much of the structure has been preserved. This was a bilingual wordlist, the
+# English has been removed.  Headers have been preserved.
+#
+# Original Readme etc follows:
+# ============================
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# +                                                                       +
+# + Leuce se Webwerf : Internetterminologie -- 'n Internet Termlysie      +
+# +                                                                       +
+# + NOTA:  Een aan het ek gou 'n internetmanual gegryp en die terme       +
+# +        geëkserpteer (of ekstrakteer, soos ek toe nog gemeen het),     +
+# +        en daar is dus 'n paar terme hier opgeneem wat ek nie die      +
+# +        betekenis voor ken nie.  In gevalle waar ek egter heel seker   +
+# +        was het ek 'n vertaling aangegee.  Ek sal seker oor 'n maand   +
+# +        of drie 'n totale herskryf doen - intussen, geniet dit!        +
+# +                                                                       +
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# 
+# http://www.geocities.com/Wellesley/5897/le06.html
+# (c) 1998 Samuel Murray, leuce@geocities.com
+# 
+# Die alombekende "Cluver en Coetzee" is al meer as tien jaar oud, maar nog
+# steeds baie akkuraat. Die werk is ongelukkig uit druk en uit stock uit, en
+# nogal skaars. Dit is, na my mening, tans die gesaghebbendste bron van die
+# Afrikaanse rekenaarterminologie.
+# 
+# Nietemin vorder tegnologie baie vinnig in die rekenaarveld, en nuwe
+# konsepte word gedurig bygevoeg. Gelukkig weet ons dat rekenaartaal geduring
+# by homself en by naasverwante velde woorde leen. Slegs enkele woorde is
+# werklik nuut...
+# 
+# Hoewel ek nie altyd persoonlik en onmiddellik op navrae kan antwoord nie,
+# verwelkom ek nietemin enige vrae oor taalkwessies of vreemde woorde. Ek sal
+# sporadies kommentare en meer woordvertalings by hierdie lys voeg.
+# 
+# =====================
+# 
+# Engels - Afrikaans Internettermlys
+# 'n ekstraksie van die ou Gem Internet Manual
+# 
+# (datum van die oorspronklike webbladsy 1998-08-13)
+# 
+# Afkortings en verduidelikings:
+# 
+# (cmdp) = Combrink, Meyer en Du Plooy hier
+# AWS = Afrikaanse Woordelys en Spelreëls
+# (bvh) = Bosman, Van der Merwe en Hiemstra
+# (clc) = Coetzee, Du Plooy en Cluver (by afgeleide hulp)
+# (tbt) = Terblanche se Tegniese woordeboek
+# ... asook die gewone vir naamwoord (n), verbum (v), ens.
+# 
+# 'n Gelykaanteken (=) dui aan dat woordkoppeling sonder 'n koppelteken (d.i.
+# aaneen) geskied. 'n Enkele vraagteken by 'n woord dui aan dat ek onseker
+# is, twee vraagtekens dui aan dat ek heelwat onseker is, en drie vraagtekens
+# dui aan dat ek glad nie weet nie.
+# 
+# Kopieregstelling en verontskuldiging... Die hele lys behoort aan my, Samuel
+# Murray, maar enige iemand is welkom om die lys (met of sonder kommentare,
+# in hul geheel) in sy geheel vir persoonlike gebruik te kopieër. Ek waarborg
+# geensins die akkuraatheid van hierdie lys nie, maar ek stel dit tog dat ek
+# my vir juistheid beywer, ook hierin. Die lys bevat 513 trefwoorde. Die lys
+# is opgestel in Junie 1998.
+#
+# ChangLog
+# 1998-09-17:
+# Ek het twintig foute in die teks reggemaak, naamlik die inskrywings oor
+# launch, newbie en postmaster (dubbelinskrywinge), verify en anonimity
+# (spelfout), forwardslash, wick en backslash (kruisverwysings), HTML-tag,
+# gateway, lurk, public access, tag, smiley, run, source, virtual, shareware
+# en share (vertaalaanpassings), radiobutton (bronverwysing).
+# 
+# 1998-10-08:
+# N.a.v. 'n teregwysing van Gerhard Griesel het ek die woord "akuraat" met
+# "akkuraat" vervang, wat dan ook die AWS-spelling is. Dis een van daai
+# woorde wat die AWS vir ons voorskryf om te spel soos wat dit onmoontlik nie
+# reg gespel kan wees nie. :)
+# 
+# Die lys:
+# 
+# Syfers
+# 
+16-bis
+32-bis
+# =============
+# A
+# =============
+akuut
+byvoeg
+adresboekie
+veroudering
+waaksaam
+op die hoede
+waarskuwing
+waarsku
+alias
+pennaam
+allokeer
+toeken
+ampersand
+en-teken
+animasie
+anonimiteit
+toepassing
+toepassing
+applikasie
+argiefstelsel
+argief
+argiveer
+boekstaaf
+wegbêre
+kompressieformate
+artikel
+ASCII
+Amerikaanse standaardkode vir inligtingsverwisseling
+ASKIV
+asterisk
+sterretjie
+by
+aapstert
+aanhangsel
+e-pos
+geldigheidsvasstelling
+magtiging
+selfspeur
+outospeur
+outolaai
+outomatiese bespeuring
+outospeur
+outobetroubaar
+# =============
+# B
+# =============
+terugknoppie
+terug-skuinsstrepie
+agtertoeskuinsstrepie
+ná gemodereer
+terug gemodereer
+baud
+BBS
+bullitinborddiens
+beta
+b-uitgawe
+binêre
+binêre lêer
+grafika
+bis
+Bitnet
+oop
+blinde koolkopie
+geheimkopie
+lyf
+donkerdruk
+swartdruk
+boekmerk
+boekmerkskakel
+bons
+terugbons
+e-pos aflewering
+terugbons
+netwerksein
+bons
+netwerk
+kas
+boks
+rekenaar
+hakies
+deurblaai
+deurblaaier
+borrelruitjie
+buffer
+ingeboude
+koeëltjies
+dotlys
+knoppie
+greep
+# ===========
+# C
+# ===========
+kas
+kasgeheue
+oproepvoorkeur
+gryp
+koolkopie
+karet
+kappie
+reëleinde
+reëlend
+kanaal
+karakterstel
+klets
+gesels
+regmerkie
+nagaan
+klinkel
+bots
+stellings
+klik
+kliek
+kliënt
+kliënt-bedienerverhouding
+kloon
+dubbelpunt
+com-poort
+kommunikasiepoort
+kom-poort
+reëlopdrag
+reël-vir-reël
+opdragveld
+opdraglyn
+versoenbaar
+kompressie
+konfigurasieprogram
+opstelprogram
+opsteller
+konfigureer
+opstel
+verbind
+algemeen
+konnekteer
+sok
+koppel
+kommunikasie
+Internet
+kolwyntjie
+koekie
+kopieer
+korrup
+landkode
+krapper
+kruispos
+krulhakies
+krulaanhalingstekens
+doelveranderde
+doelgemaakte
+doelmaak
+sny
+# =============
+# D
+# =============
+databis
+ontvlooiingsprogram
+ontvlooi
+ontgogging
+dekodeer
+toegewyd
+grond deurgangspoort
+verstekwaarde
+grondwaarde
+uitvee
+uitwis
+wis
+wissing
+uitwis
+uitwissing
+aflaai
+tafelblad
+bestemming
+bespeur
+deelteken
+diagnostiese toetse
+skakel
+uitbel
+bel
+luitoon
+dialoogblokkie
+dialoogkassie
+dialoogruitjie
+inbel
+inskakel
+inbel
+inskakel
+inbelnetwerkwerk
+gids
+sper
+ontkoppel
+diskonnekteer
+uitbeelding
+beeld
+afbeelding
+dokumentasie
+handboek
+spesifiek
+dollar
+domein
+domeinsuffiks
+domeinstert
+kol
+dot
+klik-klik
+dubbelkliek
+dubbelklik
+skakel af
+gaan sit
+breek af
+afsit
+afskakel
+ontkoppel
+aflaai
+drywer
+laat 'n lyn val
+dubbelmodus
+dinamiese
+IP-adres
+# ===============
+# E
+# ===============
+redigeer
+beletselteken
+e-pos
+E-pos
+AWS-spelling
+ingebedde
+verskansde
+emotikon
+emulasie
+ontsper
+enkodeer
+foutkorrigering
+foutkorreksie
+uitroepteken
+uitvoer
+uitbreiding
+eksterne modem
+# ==============
+# F
+# ==============
+koppeling
+gebreek
+onderbreek
+verbinding
+kwelvrae
+neulvrae
+FAQ
+gunstelinge
+faks
+faksimilie
+veld
+adresveld
+veld
+databasis
+EIEU
+kielie
+brandmuur
+dondergram
+vuurskoot
+bliksem
+vlamoorlog
+bliksemstryd
+vloeibeheer
+kommunikasiebeheer
+vakkie
+vouer
+opvolg
+forseer
+formaat
+formatteer
+forum
+vorentoeskuinsstrepie
+font
+lettertipe
+rame
+ruite
+vensters
+frekwensie
+gereeldheid
+voor
+FTP
+Lêeroordragprotokol
+LOP
+FTP-werf
+punt
+# ===============
+# G
+# ===============
+speletjies
+deurgangspoort
+toegangspoort
+ingangspoort
+gigagreep
+Gopher
+toelating gee
+toegang gee
+grafika
+grafikakaart
+gravis
+groter-as
+vergryste
+mistige
+gas
+kompressieformate
+# ==============
+# H
+# ==============
+kapper
+oppas
+bladskud
+hang
+hardeware
+apparatuur
+hemp
+kappertaal
+huts
+pons
+hofie
+opskrif
+opskrifaanduiding
+hoogte
+hooftrek
+belig
+verlig
+blok
+teks
+tuisknoppie
+tuisblad
+gasheer
+HTML
+Hiperteks-markeertaal
+HTML-plaatjie
+HTML-merker
+HTML-grepie
+HTTP
+Hiperteks-oordragprotokol
+jaglyn
+van 'n ISP
+hiperskakel
+hiperterminaal
+# ================
+# I
+# ================
+klikkie
+ikoon
+stil
+telefoonlyn
+inkomende boodskap
+inkeping
+inkeep
+inkeping
+inlyn
+toevoerboks
+toevoerkassie
+installeer
+geïntegreerd
+koppelvlak
+interne modem
+Internet
+die groot internet
+internet
+teenoor intranet
+Internetrekening
+Internetwolk
+onderbrekingsversoek
+ongeldig
+verkeerd
+onaanvaarbaar
+nooi
+IP-nommer
+IP-adres
+internet-aflosgesels
+ISP
+internetdiensverskaffer
+IDV
+skuinsdruk
+# =================
+# J
+# =================
+Java teks
+teks van 'n Java program
+Java skrif
+werkteks van 'n Javascript program
+Javascript
+naam van skriptaal
+gemorspos
+# ================
+# K
+# ================
+sleutelwoord
+skop
+vermoor
+geselskanale
+stop
+programprosedure
+stel
+# ==============
+# L
+# ==============
+LAN
+plaaslike netwerk
+lanseer
+uitgee
+produk
+laai
+applikasie
+uitleg
+gehuurde lyn
+kleiner-as
+Linux
+lys
+lysboks
+staaflêer
+loglêer
+aanmeld
+inteken
+afmeld
+uitteken
+stawing
+boekstawing
+aanmeldnaam
+aanmeldskrif
+onderkas
+uitkyk
+skuil
+hurk
+# ================
+# M
+# ================
+posbus
+poslys
+poslysbasis
+poslysdatabasis
+lid
+kieslys
+boodskap
+boodskapfiltrering
+boodskapruitjie
+booskapventer
+modus
+modem
+modulator-demoldulator
+gemodereer
+modulasie
+muis
+muisknoppie
+verskuif
+multimedia
+meervoudige ontvangers
+veelvoudige gebruiker
+# ================
+# N
+# ================
+naambediener
+nasaleringmerk
+navigeer
+rondsoek
+snuffel
+boomstruktuur
+net
+internetwerk
+netiket
+netmasker
+netwerk
+netwerkwerk
+netwerklaag
+nuweling
+groentjie
+nuusgroep
+nuusleesprogram
+nuusleser
+pennaam
+alias
+NNTP
+Netwerknuus-oordragprotokol
+strooi
+geraas
+gemors
+strooi
+geraas
+geen
+# ================
+# O
+# ================
+ongekoppel
+gekoppel
+opsie
+opsioneel
+bykomstig
+uitboks
+uitgaande boodskap
+# ================
+# P
+# ================
+pakket
+pakkie
+pakkievektor
+parallelle poort
+pariteit
+ontleed
+broknaam
+aangee
+wagwoord
+toegangswoord
+plak
+persentasie
+werkverrigting
+punt
+telefoonlyn
+pieng
+platform
+koppel
+aanlê
+inprop
+insok
+inproptoestel
+sleng
+punt
+POP
+Poskantoorprotokol
+PKP
+opspring
+poort
+pos
+stuur
+posmeester
+huts
+pond
+PPP
+Punt-na-punt-protokol
+voorsorg
+voorsorgmaatreël
+voorsorgmaatreëls
+druk
+privaatheid
+proporsionele font
+proporsionele lettertipe
+protokol
+volmag
+algemene toegang
+publieke toegang
+openbare toegang
+uitdeelware
+# ==============
+# Q
+# ==============
+navraag
+vraagteken
+tou
+staan in die tou
+wag
+vir 'n beurt wag
+in 'n tou laat staan
+in 'n tou plaas
+# ===============
+# R
+# ===============
+klinkknoppie
+skakelknoppie
+kompressieformate
+tempo
+baud
+vir aandag
+verwysing
+betroubaar
+herlaai
+antwoord
+vereiste
+verwagting
+herpos
+terugkeer
+antwoord
+terugadres
+RFC
+rot13
+hakies
+ronde hakies
+reëls
+loop
+laat loop
+program
+# ==============
+# S
+# ==============
+skandeer
+skedule
+skrip
+skripte
+skriptaal
+eenvoudige programmeertaal
+skrif
+werkteks van 'n skrip
+teks
+van 'n programmeertaal
+algemeen
+na onder rol
+na bo rol
+soekmasjien
+soekgids
+snuffelgids
+snuffelmasjien
+veilig
+dig
+beveilig
+sekuriteit
+kommapunt
+seriepoort
+bediener
+diens
+diensverskaffer
+sessie
+saamdeel
+spreiware
+verspreiware
+saamdeelware
+verdeelware
+minder akkuraat
+kortpaadjie
+uitteken
+handtekening
+naamtekening
+eenvoudige adres
+kort adres
+enkelmodus
+werf
+werfsertifikaat
+grootte
+skuinsstrepie
+SLIP
+PPP
+Serielyn-internetprotokol
+Punt-na-punt-protokol
+gesiggie
+laggertjie
+laggerdjie
+AWS-spelling
+slakpos
+slakkepos
+sagteware
+programmatuur
+klankkaart
+oorsprongtaal
+bronskrif
+strooi
+rommel strooi
+speltoets
+spreiblad
+ontledingstaat
+sigblad
+blokhakies
+vierkantige hakies
+SSL
+standvastigesok-laag
+bondel
+versameling protokols
+beginbladsy
+laai
+selflaai
+laaifunksie
+stopbis
+string
+onderwerpveld
+onderwerplyn
+substring
+suite
+swem
+skaats
+blindelingse netwerktoerery
+stelseloperateur
+stelsel
+# ===============
+# T
+# ===============
+stootkeep
+tabelkeep
+vakkiekieslys
+oortjiekieslys
+plaatjie
+merker
+grepie
+plaatjietaal
+kompressieformate
+#TCP/IP
+Oorsendingsbeheerprotokol
+Internetprotokol
+#OBP/IP
+#TCP/IP-bondel
+telefoonlyn
+telnet
+templaat
+sjabloon
+teragreep
+terminaal
+termineer
+beëindig
+kommunikasie
+termineer
+netwerkkabel
+teks
+rygdraad
+tilde
+slangetjie
+tydbediener
+spertydperk
+tydreëlaar
+raad
+drieletterakroniem
+hulpstafie
+hulpmiddels
+gereedskap
+topvlak
+onderwerp
+spoorventer
+spoorruitjie
+oordra
+oorsend
+versend
+vervoerstaaflêer
+rommel
+rommelmandjie
+drommetjie
+drie-klik
+klik-klik-klik
+drie-kliek
+# =============
+# U
+# =============
+umlaut
+onderstreep
+ongelees
+vooruit gemodereer
+opgradering
+opgradeer
+bokas
+URL
+Uniforme hulpbronopspoorder
+Usenet
+gebruiker-ID
+gebruikernaam
+hulpprogramme
+byprogramme
+UUCP
+Unix-na-Unix-kopiëering
+uu-dekodeer
+uu-enkodeer
+# ====================
+# V
+# ====================
+geldig
+korrek
+aanvaarbaar
+verifieer
+via
+oor
+per
+bekyk
+besigting
+kyk
+amperreële
+virtuele
+skynrealiteit
+amperrealiteit
+virtuele
+realiteit
+Kolk
+volume
+# ==================
+# W
+# ==================
+flap
+vorentoeskuinsstrepie
+terug-skuinsstrepie
+waarsku
+watermerk
+wav-lêer
+webwerf
+webbladsy
+webblaai
+webtuiste
+webkoerant
+webmeester
+agtertoeskuinsstrepie
+wydte
+breedte
+slimmerd
+outomatiese
+opstelprogram
+woordverwerker
+woordvou
+woordomvou
+omvou
+WWW
+Wêreldwye web
+# ===================
+# XYZ
+# ===================
+kompressieformate

@@ -1,0 +1,260 @@
+# wordlist.countrynames.in - The names of all countries in the world
+#
+# Extracted from ISO3166 found in the gettext packages
+#
+# Notes:
+# - This list may not include historic names but probably should and also does
+# not include all transitory names that may appear in ISO3166
+# - All & have been changed to 'and'
+# - All items in () have the original commented out all usefull information
+# is then extracted in the lines below the comment.
+# 
+Andorra
+United Arab Emirates
+Afghanistan
+Antigua and Barbuda
+Anguilla
+Albania
+Armenia
+Netherlands Antilles
+Angola
+Antarctica
+Argentina
+# Samoa (American)
+Samoa American
+American
+Austria
+Australia
+Aruba
+Azerbaijan
+Bosnia and Herzegovina
+Barbados
+Bangladesh
+Belgium
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Bermuda
+Brunei
+Bolivia
+Brazil
+Bahamas
+Bhutan
+Bouvet Island
+Botswana
+Belarus
+Belize
+Canada
+# Cocos (Keeling) Islands
+Cocos Keeling Islands
+# Congo (Dem. Rep.)
+Congo
+Central African Rep.
+# Congo (Rep.)
+Congo
+Switzerland
+Côte d'Ivoire
+Cook Islands
+Chile
+Cameroon
+China
+Colombia
+Costa Rica
+Serbia and Montenegro
+Cuba
+Cape Verde
+Christmas Island
+Cyprus
+Czech Republic
+Germany
+Djibouti
+Denmark
+Dominica
+Dominican Republic
+Algeria
+Ecuador
+Estonia
+Egypt
+Western Sahara
+Eritrea
+Spain
+Ethiopia
+Finland
+Fiji
+Falkland Islands
+Micronesia
+Faeroe Islands
+France
+Gabon
+Britain
+Grenada
+Georgia
+French Guiana
+Ghana
+Gibraltar
+Greenland
+Gambia
+Guinea
+Guadeloupe
+Equatorial Guinea
+Greece
+South Georgia and the South Sandwich Islands
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hong Kong
+Heard Island and McDonald Islands
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+Ireland
+Israel
+India
+British Indian Ocean Territory
+Iraq
+Iran
+Iceland
+Italy
+Jamaica
+Jordan
+Japan
+Kenya
+Kyrgyzstan
+Cambodia
+Kiribati
+Comoros
+St Kitts and Nevis
+# Korea (North)
+# Korea (South)
+Korea
+Kuwait
+Cayman Islands
+Kazakhstan
+Laos
+Lebanon
+St Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lithuania
+Luxembourg
+Latvia
+Libya
+Morocco
+Monaco
+Moldova
+Madagascar
+Marshall Islands
+Macedonia
+Mali
+# Myanmar (Burma)
+Myanmar
+Burma
+Mongolia
+Macao
+Northern Mariana Islands
+Martinique
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldives
+Malawi
+Mexico
+Malaysia
+Mozambique
+Namibia
+New Caledonia
+Niger
+Norfolk Island
+Nigeria
+Nicaragua
+Netherlands
+Norway
+Nepal
+Nauru
+Niue
+New Zealand
+Oman
+Panama
+Peru
+French Polynesia
+Papua New Guinea
+Philippines
+Pakistan
+Poland
+St Pierre and Miquelon
+Pitcairn
+Puerto Rico
+Palestine
+Portugal
+Palau
+Paraguay
+Qatar
+Réunion
+Romania
+Russia
+Rwanda
+Saudi Arabia
+Solomon Islands
+Seychelles
+Sudan
+Sweden
+Singapore
+St Helena
+Slovenia
+Svalbard and Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Sao Tome and Principe
+El Salvador
+Syria
+Swaziland
+Turks and Caicos Islands
+Chad
+French Southern and Antarctic Lands
+Togo
+Thailand
+Tajikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunisia
+Tonga
+Turkey
+Trinidad and Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraine
+Uganda
+US minor outlying islands
+United States
+Uruguay
+Uzbekistan
+Vatican City
+St Vincent
+Venezuela
+# Virgin Islands (UK)
+# Virgin Islands (US)
+Virgin Islands
+Vietnam
+Vanuatu
+Wallis and Futuna
+# Samoa (Western)
+Samoa Western
+Yemen
+Mayotte
+South Africa
+Zambia
+Zimbabwe

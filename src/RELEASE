@@ -1,0 +1,33 @@
+The release checklist
+---------------------
+
+Use this when you want to release a new version of your spellchecker.  You
+are bound to forget something and this ensures in some way that you don't.
+
+Test
+	- Install on Mozilla
+	- Install using OOo dictioanry installer
+
+Package spellchecker
+	- Check install instructions
+	- Update Changelog
+	- cvs tag dict-$LANG_ISOCODE-$VERSION
+
+Upload to SF
+	- Add Notes (usually myspell/README_af_ZA.txt)
+	- Changelog for dictionary
+
+Notify
+	- OpenOffice.org - http://lingucomponent.openoffice.org/spell_dic.html
+	- Mozilla - addons.mozilla.org
+	- ? Pavel so it can be included in the OOo build system
+
+Announce
+	- Freshmeat
+	- SF make news note
+	- translate.sf.net add to html
+	- translate.org.za add to news on front page if needed
+	- announce to translate-discuss-NN or translate-devel as needed
+	- announce on translate-announce if very important
+
+

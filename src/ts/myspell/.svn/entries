@@ -1,0 +1,54 @@
+8
+
+dir
+9599
+https://zaf.svn.sourceforge.net/svnroot/zaf/trunk/dict/ts/myspell
+https://zaf.svn.sourceforge.net/svnroot/zaf
+
+
+
+2006-01-23T09:50:45.000000Z
+8407
+dwaynebailey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ddcbd3e-7f1e-0410-b01d-e1bca9a1112e
+
+README_ts_ZA.txt
+file
+
+
+
+
+2007-11-23T10:32:34.000000Z
+bb20ccfcc09fcca4914244a3825f32bc
+2006-01-23T09:50:45.000000Z
+8407
+dwaynebailey
+has-props
+
+ts_ZA.aff
+file
+
+
+
+
+2007-11-23T10:32:34.000000Z
+ec6b9a8460c2cbad99a1f304e0934317
+2006-01-23T09:50:45.000000Z
+8407
+dwaynebailey
+has-props
+

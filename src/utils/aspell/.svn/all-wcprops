@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/zaf/!svn/ver/9082/trunk/dict/utils/aspell
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/zaf/!svn/ver/9082/trunk/dict/utils/aspell/configure
+END
+proc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/zaf/!svn/ver/9082/trunk/dict/utils/aspell/proc
+END
+README.aspell
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/zaf/!svn/ver/9082/trunk/dict/utils/aspell/README.aspell
+END

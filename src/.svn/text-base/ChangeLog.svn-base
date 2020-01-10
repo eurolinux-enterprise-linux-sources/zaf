@@ -1,0 +1,63 @@
+2005-12-23: Friedel Wolff <viool@webmail.co.za>
+	* Build Framework: utils/META-INF/manifest.xml utils/Makefile.language
+		- add support for building OpenOffice.org autocorrect files
+
+2004-07-29: Dwayne Bailey <dwayne@translate.org.za>
+	* Build Framework: utils/Makefile.language
+		- wordlist target now packs all the input files in their original encoding
+
+2004-07-27: Dwayne Bailey <dwayne@translate.org.za>
+	* Build Framework: utils/Makefile.language
+		- Added VERSION to various output files
+
+2004-07-05: Dwayne Bailey <dwayne@translate.org.za>
+	* Build Framework: Makefile
+		- Added more wordlist prefilters for aspell to build af
+	- Added TODO file
+
+2004-06-01: Dwayne Bailey <dwayne@translate.org.za>
+	* Build Framework: README
+		- Added intructions on using the spellchecker framework
+
+2004-05-31: Dwayne Bailey <dwayne@translate.org.za>
+	* Build Framework: Makefile
+		- make wordlist builds all wordlists across all languages
+
+2004-05-30: Dwayne Bailey <dwayne@translate.org.za>
+	* Build Framework: Makefile
+		- Can now build aspell or myspell across all languages by issueing a
+		  "make aspell" or "make myspell" in the base directory.
+		- en_ZA added to build from base directory
+
+2004-05-29: Dwayne Bailey <dwayne@translate.org.za>
+	* Build Framework: utils/Makefile
+		- Format changes so that make count is readable again
+
+2004-05-28: Dwayne Bailey <dwayne@translate.org.za>
+	* Xhosa (xh):
+		Added xh to the build system based on an initial web crawler generated
+		wordlist
+
+2004-05-16 Dwayne Bailey <dwayne@translate.org.za>
+	* South African English (en_ZA):
+		Added en_ZA to the build system based largely on en_GB with South
+		African place, people, animals names
+	* Build Framework: proc utils/configure READE.aspell
+		- Upgraded aspell build tools to 0.50.4
+
+2004-05-12 Dwayne Bailey <dwayne@translate.org.za>
+	* Setswana (tn):
+		- Added Setswana to the build system.  Using wordlist from the aspell
+		  tswana spell checker
+	* Build Framework:
+		- Can now build a Mozilla Myspell XPI
+		- 'make count' to give various word counts
+		- 'make check' first attempt to validate MySpell TRY lines
+		- wordlist now created from multiple input files defined in
+		  $(WORDLIST.IN)
+
+2004-05-07 Dwayne Bailey <dwayne@translate.org.za>
+	* Aspell:
+		- Aspell make dist only packages but does not compile.  Added make
+		  distcheck to ensure we actually build an aspell version before
+		  shipping.

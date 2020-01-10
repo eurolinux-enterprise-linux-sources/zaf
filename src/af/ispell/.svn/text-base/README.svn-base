@@ -1,0 +1,26 @@
+README
+------
+The original Affix file was created by Renier de Vos in 1993.  The license was
+changed to the LGPL in 2003.  This version makes use of the unified Afrikaans
+wordlist used by various spellcheckers.
+
+Compiling
+---------
+Requires: buildhash - from the ispell package
+
+Type the following in the parent directory
+
+make ispell
+
+This will run the hash algorithms and create a tarball
+
+LANGUAGE-VERSION.tar.bz2 which contains:
+
+LANGUAGE.aff
+LANGUAGE.hash
+README
+
+
+Installation
+------------
+The ispell dictionary is usually installed in /usr/lib/ispell.

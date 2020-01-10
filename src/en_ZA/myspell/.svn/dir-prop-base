@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 177
+README-en-ZA.txt
+VERSION_en_ZA.txt
+en-ZA.aff
+en-ZA.dic
+en_ZA.dic
+install.js
+myspell-en_ZA-*.zip
+myspell-pack-en-ZA-*.zip
+pack-en-ZA-*.zip
+spell-en-ZA-*.xpi
+spell.txt
+wordlist.*
+
+END

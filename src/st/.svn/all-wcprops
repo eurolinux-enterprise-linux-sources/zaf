@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/zaf/!svn/ver/8405/trunk/dict/st
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/zaf/!svn/ver/8405/trunk/dict/st/VERSION
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/zaf/!svn/ver/8405/trunk/dict/st/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/zaf/!svn/ver/8405/trunk/dict/st/COPYING
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/zaf/!svn/ver/8405/trunk/dict/st/CREDITS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/zaf/!svn/ver/8405/trunk/dict/st/Makefile
+END

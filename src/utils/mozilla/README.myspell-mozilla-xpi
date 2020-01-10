@@ -1,0 +1,17 @@
+Version 2
+---------
+We now have an install.rdf.in and install.js.in file.  We probably want to expand
+things so that we can localise certain entries.
+
+The files where taken from an experimental Afrikaans version 2 spell checker
+and should be updated as needed as the spell checker change.
+
+Version 1
+---------
+To build a MySpell spellchacker packed as an XPI for Mozilla we need an
+install.js file.
+
+install.js.in - is a generic template file used by the spellchecker framework.
+
+This file was obtained from the British English spellchecker:
+http://downloads.mozdev.org/dictionaries/spell-en-GB.xpi

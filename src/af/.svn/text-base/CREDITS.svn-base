@@ -1,0 +1,42 @@
+Bernard A Nieuwoudt <origen@icon.co.za> or <bnieuwoudt@acm.org>
+    Original creator of the Afrikaans wordlist
+
+Dwayne Bailey <dwayne@translate.org.za>
+    Worked to get the LGPL list as part of the Afrikaans MySpell spell checker
+    initiative
+    Conversion of affix files ispell->myspell
+
+David Fraser <david@translate.org.za>
+    Created the build framework
+
+Reinier de Vos <rdevos@quicksilver.net.nz>
+	Creator of the Ispell affix file
+
+Froese, R. and D. Pauly. Editors. 2004. FishBase.
+	World Wide Web electronic publication.
+	www.fishbase.org, version (03/2004).
+	wordlist.fish.in - Data extracted from FishBase
+
+Samuel Murray <ordinateur@websurfer.co.za>
+	and co-workers Alex Flesch, Marita Kitching, Louise Muller, Elsje Nel
+	wordlist.wineterms.in - wine terms, aromas, flavours, names, etc
+	And
+	internetterms.in - English - Afrikaans list of Internet and computer terms
+	motorterms.in - English - Afrikaans list of motor car and motor industry
+		terms
+
+Percy FitzPatrick Institute of African Ornithology
+	Roberts VII Project's Species List for the list of birds found in
+	wordlists.birds.in
+
+Edwin van der Spuy <vds@msn.com>
+	Various Internet terms
+
+Stigting vir Bemagtiging deur Afrikaans
+	Curriculum 2005	bilingual terminology list
+
+Danie Viljoen <danievil@absamail.co.za>
+	viljoen.in an expanded Nieuwoudt list
+
+Friedel Wolff <viool@webmail.co.za>
+	Cleaning up the lists, lots and lots of additions and corrections

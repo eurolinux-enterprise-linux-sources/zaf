@@ -1,0 +1,54 @@
+8
+
+dir
+9599
+https://zaf.svn.sourceforge.net/svnroot/zaf/trunk/dict/ve/wordlists
+https://zaf.svn.sourceforge.net/svnroot/zaf
+
+
+
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ddcbd3e-7f1e-0410-b01d-e1bca9a1112e
+
+wordlist.mozilla.in
+file
+
+
+
+
+2007-11-23T10:33:21.000000Z
+c46d5d59ad3e12ea54eba99e6292a823
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+has-props
+
+wordlist.openoffice.in
+file
+
+
+
+
+2007-11-23T10:33:21.000000Z
+b722ca5e66e866a3261a392d9912ca51
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+has-props
+

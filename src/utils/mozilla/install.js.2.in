@@ -1,0 +1,11 @@
+var err = initInstall("{LANGNAME} dictionary for spell checking in Mozilla products", "{LANG}-{REGION}@dictionaries.addons.mozilla.org", "1.0");
+if (err != SUCCESS)
+    cancelInstall();
+
+var fProgram = getFolder("Program");
+err = addDirectory("", "{LANG}-{REGION}@dictionaries.addons.mozilla.org",
+		   "dictionaries", fProgram, "dictionaries", true);
+if (err != SUCCESS)
+    cancelInstall();
+
+performInstall();

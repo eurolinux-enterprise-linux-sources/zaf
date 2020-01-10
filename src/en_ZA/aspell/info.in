@@ -1,0 +1,14 @@
+name_english English
+lang en
+author:
+  name Dwayne Bailey
+  email dwayne at translate org za
+copyright LGPL
+version {VERSION}
+charset iso8859-1
+special ' *** - -*-
+soundslike none
+alias en english
+dict:
+  name en
+  add en

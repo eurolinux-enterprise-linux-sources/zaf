@@ -1,0 +1,148 @@
+8
+
+dir
+9599
+https://zaf.svn.sourceforge.net/svnroot/zaf/trunk/dict
+https://zaf.svn.sourceforge.net/svnroot/zaf
+
+
+
+2008-07-14T13:15:23.261461Z
+9599
+friedelwolff
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ddcbd3e-7f1e-0410-b01d-e1bca9a1112e
+
+nr
+dir
+
+xh
+dir
+
+RELEASE
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+a04d6ef616ba6ab9b25ecb6e24ed5a2b
+2007-10-23T10:54:24.201126Z
+9254
+dwaynebailey
+has-props
+
+tn
+dir
+
+ss
+dir
+
+ts
+dir
+
+st
+dir
+
+af
+dir
+
+ChangeLog
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+ca6b44723ee4d268cf638221ba9604f7
+2005-12-23T18:35:07.000000Z
+8361
+davidfraser
+has-props
+
+sw
+dir
+
+en_ZA
+dir
+
+README
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+1973f99b98dba5ef8a4728a3a01edf4a
+2004-06-04T19:56:56.000000Z
+6878
+dwaynebailey
+has-props
+
+zu
+dir
+
+nso
+dir
+
+utils
+dir
+
+tools
+dir
+
+VERSION.aspell
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+ffe91e07fd50483ed7f066c068bc378b
+2004-03-21T16:07:21.000000Z
+6703
+dwaynebailey
+has-props
+
+TODO
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+94bfc9a41d3656a3a39bf419e4dc9c8b
+2006-01-20T16:34:25.000000Z
+8393
+dwaynebailey
+has-props
+
+ve
+dir
+
+Makefile
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+0290a564ab11411e5e49d44074b3b381
+2004-07-04T22:49:24.000000Z
+6944
+dwaynebailey
+has-props
+

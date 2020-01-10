@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Copyright 2006 Dwayne Bailey <dwayne@translate.org.za>
+# Licence: GPL
+
+# plural maker will create missing plural forms for words
+# eg if in the list you have the word feeskomitee but
+# are missing the plural feeskomitees then this script will help
+#
+# ./plural-maker komitee s *.in
+#
+# ie
+# ./plural-maker suffix pluralisation-character files-to-search
+#
+# Output is all the singular version with the pluralisation character
+# added to create a plural form.
+
+suffix_word=$1
+pluralsuffix=$2
+shift 2
+
+egrep -vh "^#|^$" $* | egrep -h "${suffix_word}$" | sort -u | 
+while read singular
+do
+	egrep -h "${singular}${pluralsuffix}$" $* > /dev/null || echo "${singular}${pluralsuffix}"
+done
