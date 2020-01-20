@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/zaf/!svn/ver/8382/trunk/dict/af/acor
+END
+SentenceExceptList.csv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/zaf/!svn/ver/8374/trunk/dict/af/acor/SentenceExceptList.csv
+END
+DocumentList.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/zaf/!svn/ver/8382/trunk/dict/af/acor/DocumentList.csv
+END
+WordExceptList.csv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/zaf/!svn/ver/8373/trunk/dict/af/acor/WordExceptList.csv
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/zaf/!svn/ver/8376/trunk/dict/af/acor/.cvsignore
+END

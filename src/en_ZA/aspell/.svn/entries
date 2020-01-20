@@ -1,0 +1,54 @@
+8
+
+dir
+9599
+https://zaf.svn.sourceforge.net/svnroot/zaf/trunk/dict/en_ZA/aspell
+https://zaf.svn.sourceforge.net/svnroot/zaf
+
+
+
+2004-07-04T23:01:02.000000Z
+6946
+dwaynebailey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ddcbd3e-7f1e-0410-b01d-e1bca9a1112e
+
+info.in
+file
+
+
+
+
+2007-11-23T10:33:11.000000Z
+19e5762b0fda9601bd23c1356893cff2
+2004-07-04T23:01:02.000000Z
+6946
+dwaynebailey
+has-props
+
+Copyright
+file
+
+
+
+
+2007-11-23T10:33:11.000000Z
+5f2d030b3c7ecce30a218771ac771693
+2004-05-15T22:47:14.000000Z
+6813
+dwaynebailey
+has-props
+

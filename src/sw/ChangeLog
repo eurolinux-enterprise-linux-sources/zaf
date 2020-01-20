@@ -1,0 +1,15 @@
+2004-05-31: Dwayne Bailey <dwayne@translate.org.za>
+	* Build system:
+		- migrated to using wordlists/ directory
+	* Wordlists: scannell.in
+		- Added wordlist but not enabled
+
+2004-03-21: Dwayne Bailey <dwayne@translate.org.za>
+	* Change Aspell build system to the standard method employed for all aspell
+	  dictionaries.
+	* Added first test affix compression
+	* Minor wordlist changes to test affix compression
+	* Makefile changes to include a glocal aspell VERSION
+
+2004-03-18: Dwayne Bailey <dwayne@translate.org.za>
+	* Initial creation of Kiswahili spell checker

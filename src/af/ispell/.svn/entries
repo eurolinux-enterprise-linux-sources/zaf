@@ -1,0 +1,54 @@
+8
+
+dir
+9599
+https://zaf.svn.sourceforge.net/svnroot/zaf/trunk/dict/af/ispell
+https://zaf.svn.sourceforge.net/svnroot/zaf
+
+
+
+2004-01-06T09:38:01.000000Z
+6634
+dwaynebailey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ddcbd3e-7f1e-0410-b01d-e1bca9a1112e
+
+afrikaans.aff
+file
+
+
+
+
+2007-11-23T10:32:43.000000Z
+ab74557e7dfb1109baa9595aeb67362f
+2004-01-06T09:38:01.000000Z
+6634
+dwaynebailey
+has-props
+
+README
+file
+
+
+
+
+2007-11-23T10:32:43.000000Z
+009d8d25322ed01e56687d97fdd69570
+2004-01-06T09:38:01.000000Z
+6634
+dwaynebailey
+has-props
+

@@ -1,0 +1,309 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2002-07-15 17:13+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: README_af_ZA.txt:1
+msgid ""
+"MySpell Afrikaans Spellchecker"
+"------------------------------"
+msgstr ""
+
+#: README_af_ZA.txt:4
+msgid ""
+"1. Welcome"
+"2. Copyright"
+"3. Installation and Setup"
+"4. Contributing"
+"5. Copying"
+msgstr ""
+
+#: README_af_ZA.txt:10
+msgid "Enjoy!"
+msgstr ""
+
+#: README_af_ZA.txt:12
+msgid ""
+"1. Welcome"
+"=========="
+msgstr ""
+
+#: README_af_ZA.txt:15
+msgid "This spellchecker is Free Software:"
+msgstr ""
+
+#: README_af_ZA.txt:17
+msgid "  Free to use - Free to share - Free to change.  "
+msgstr ""
+
+#: README_af_ZA.txt:19
+msgid "See section 4. Contributing to see how you can help make it even better."
+msgstr ""
+
+#: README_af_ZA.txt:22
+msgid ""
+"Why Free Software?"
+"------------------"
+msgstr ""
+
+#: README_af_ZA.txt:25
+msgid ""
+"The Translate.org.za project's aim is to make language resources and software "
+"available to the speakers of that language and licensed in such a way that the "
+"resources remain Free and thus available to all the language's speakers."
+"After all it is you, the speakers of Afrikaans, who have actually developed "
+"and made Afrikaans into the language that it is today."
+msgstr ""
+
+#: README_af_ZA.txt:31
+msgid ""
+"What is Free Software?"
+"----------------------"
+msgstr ""
+
+#: README_af_ZA.txt:34
+msgid ""
+"For a good explanation of Free Software visit:"
+" http://www.gnu.org/philosophy/philosophy.html AND"
+" http://www.gnu.org/philosophy/free-sw.html "
+msgstr ""
+
+#: README_af_ZA.txt:39
+msgid ""
+"2. Copyright"
+"============"
+msgstr ""
+
+#: README_af_ZA.txt:42
+msgid ""
+"Afrikaans Wordlist"
+"------------------"
+msgstr ""
+
+#: README_af_ZA.txt:45
+msgid ""
+"The Afrikaans wordlist used by MySpell is made up of multiple wordlists."
+"These are wither in the public domain, are used with the authors "
+"permission or are licensed under the LGPL.  The majority of the words are"
+"derived from the Nieuwoudt and Viljoen list."
+msgstr ""
+
+#: README_af_ZA.txt:50
+msgid ""
+"The Nieuwoudt list was first published in this form in 1993 by "
+"Bernard A Nieuwoudt. Contact details: origen at icon co za or "
+"bnieuwoudt at acm org "
+msgstr ""
+
+#: README_af_ZA.txt:54
+msgid ""
+"Copyright (C) 1993, 2003 Bernard A Nieuwoudt"
+"relicensed under the LGPL."
+msgstr ""
+
+#: README_af_ZA.txt:57
+msgid ""
+"The Viljoen list is derived from the original Nieuwoudt list and is used with"
+"permission of the author and relicensed under the LGPL."
+msgstr ""
+
+#: README_af_ZA.txt:60
+msgid "Copyright (C) 1998 Danie Viljoen"
+msgstr ""
+
+#: README_af_ZA.txt:63
+msgid ""
+"MySpell Affix File"
+"------------------"
+msgstr ""
+
+#: README_af_ZA.txt:66
+msgid ""
+"Copyright (C) 2003 Dwayne Bailey under the LGPL"
+"based on the original ispell list by Renier de Vos which was released under"
+"the BSD license."
+msgstr ""
+
+#: README_af_ZA.txt:71
+msgid ""
+"3. Installation and Setup"
+"========================="
+msgstr ""
+
+#: README_af_ZA.txt:74
+msgid ""
+"Automated"
+"---------"
+msgstr ""
+
+#: README_af_ZA.txt:77
+msgid ""
+"Newer versions of OpenOffice.org have a built in macro to step you through an "
+"automatic install process."
+msgstr ""
+
+#: README_af_ZA.txt:80
+msgid "  File -> Autopilot -> Install new dictionaries..."
+msgstr ""
+
+#: README_af_ZA.txt:82
+msgid ""
+"If this is unavailable then download 'DicOOo.sxw' from:"
+"http://ftp.services.openoffice.org/pub/OpenOffice.org/contrib/dictionaries/dicooo/DicOOo.sxw"
+msgstr ""
+
+#: README_af_ZA.txt:85
+msgid ""
+"Run the macro and follow the steps outlined.  If you would like the dictionary"
+"to be available to all users then run the installation as the administrative or"
+"root user.  It is best to restart OpenOffice.org after the installation."
+msgstr ""
+
+#: README_af_ZA.txt:89
+msgid "The macro operates in two modes:"
+msgstr ""
+
+#: README_af_ZA.txt:91
+msgid ""
+"1) Online - the latest dictionaries are retrieved from the OpenOffice.org"
+"   website."
+msgstr ""
+
+#: README_af_ZA.txt:94
+msgid ""
+"2) Offline - an offline dictionary pack, which you have already downloaded, is"
+"   installed from the hard-drive.  Offline dictionaries can be downloaded from:"
+"   http://lingucomponent.openoffice.org/dictpack.html "
+"    OR"
+"   http://sourceforge.net/project/showfiles.php?group_id=91920&package_id=103504"
+msgstr ""
+
+#: README_af_ZA.txt:100
+msgid ""
+"For more detailed instructions see:"
+"  http://lingucomponent.openoffice.org/auto_instal.html"
+msgstr ""
+
+#: README_af_ZA.txt:104
+msgid ""
+"Non-automated"
+"-------------"
+msgstr ""
+
+#: README_af_ZA.txt:107
+msgid ""
+"For instructions on how to install the Afrikaans dictionary manually please visit "
+"the following URL:"
+"http://lingucomponent.openoffice.org/manual_instal.html"
+msgstr ""
+
+#: README_af_ZA.txt:112
+msgid ""
+"Spellchecker Selection"
+"----------------------"
+msgstr ""
+
+#: README_af_ZA.txt:115
+msgid ""
+"Once the spellchecker is installed you need to configure a few settings and"
+"perform some checks."
+msgstr ""
+
+#: README_af_ZA.txt:118
+msgid "1) Check that the Afrikaans Spellchecker is enabled."
+msgstr ""
+
+#: README_af_ZA.txt:120
+msgid "  Tools -> Options -> Language Settings -> Writing Aids"
+msgstr ""
+
+#: README_af_ZA.txt:122
+msgid ""
+"In the section marked 'Available language modules' select 'Edit...'.  Under"
+"the languages drop-down select Afrikaans and ensure that the 'OpenOffice.org"
+"MySpell SpellChecker' is enabled."
+msgstr ""
+
+#: README_af_ZA.txt:126
+msgid "2) Set your default document language to Afrikaans"
+msgstr ""
+
+#: README_af_ZA.txt:128
+msgid ""
+"If most of your writing is in Afrikaans then this step will ensure that"
+"documents you compose from now on are treated as Afrikaans documents.  If much"
+"of your writing is in English you might want to skip this step."
+msgstr ""
+
+#: README_af_ZA.txt:132
+msgid "  Tools -> Options -> Language Settings -> Languages"
+msgstr ""
+
+#: README_af_ZA.txt:134
+msgid ""
+"In the section marked 'Default languages for documents' is a drop-down labelled"
+"'Western'.  Afrikaans has a tick next to it to indicate that a spellchecker is "
+"installed.  Set your default language to Afrikaans."
+msgstr ""
+
+#: README_af_ZA.txt:138
+msgid "3) Changing existing documents or paragraphs to Afrikaans"
+msgstr ""
+
+#: README_af_ZA.txt:140
+msgid ""
+"Some old document might be written in Afrikaans but the document was stored"
+"indicating that the text was in English.  You can indicate that this is"
+"Afrikaans text by:"
+msgstr ""
+
+#: README_af_ZA.txt:144
+msgid ""
+"    a) Select the relevant text (Ctrl-A selects the whole document)"
+"    b) Format -> Character..."
+"       Change the 'Language' drop-down to Afrikaans."
+msgstr ""
+
+#: README_af_ZA.txt:149
+msgid ""
+"4. Contributing"
+"==============="
+msgstr ""
+
+#: README_af_ZA.txt:152
+msgid "You can help to make this software better by:"
+msgstr ""
+
+#: README_af_ZA.txt:154
+msgid ""
+"a) Contributing corrections and missing words"
+"b) Contributing your wordlists"
+"c) Reviewing the existing wordlists and user contributed lists."
+"d) Joining the Afrikaans translation and dictionary discussion list"
+"   'translate-discuss-af' at:"
+"   http://sourceforge.net/mail/?group_id=91920"
+msgstr ""
+
+#: README_af_ZA.txt:161
+msgid "Email your contributions to Dwayne Bailey <dwayne@translate.org.za>."
+msgstr ""
+
+#: README_af_ZA.txt:164
+msgid ""
+"5. Copying"
+"=========="
+msgstr ""
+
+#: README_af_ZA.txt:167
+msgid ""
+"This software is released under the LGPL which is included here for your"
+"information."
+msgstr ""
+

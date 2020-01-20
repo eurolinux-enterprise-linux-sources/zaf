@@ -1,0 +1,149 @@
+2006-02-09 Dwayne Bailey <dwayne@translate.org.za>
+
+	* wordlists/wordlist.viljoen.in: Speltoetsers -> speltoetsers
+
+2006-01-18 Dwayne Bailey <dwayne@translate.org.za>
+	* acor:
+		- Added autocorrect information
+
+2006-01-17 Dwayne Bailey <dwayne@translate.org.za>
+	* Version 20060117 released
+
+2006-01-16 Friedel Wolff <friedel@translate.org.za>
+	* myspell/af_ZA.aff:
+		- Corrections and additions to the affix file
+
+2005-09-12 Dwayne Bailey <dwayne@translate.org.za>
+	* hyph/hyph_af_ZA.dic:
+		- Afrikaans hyphenation file contributed by Friedel Wolff
+	
+2004-07-30 Nico van der Dussen <nvddussen@vddi.co.za>
+	* MySpell: README_af_ZA.txt.pot af.po
+		- Added a POT file and Afrikaans translation for the MySpell README
+		  file
+
+2004-07-28 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlist: otherwords.in
+		- Added a few words found on the PUK spell checker homepage
+
+2004-07-27 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlist: viljoen.in
+		- Minor correction (two words on one line)
+	* MySpell: README_af_ZA.txt
+		- Changed layout so that headers are seperated from paragraphs by
+		  whitespace, so that txt2po can produce cleaner POT files.
+	* Version 20040727 released
+
+2004-07-05 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlist: postcodes.in
+		- Added names of South African cities and suburbs
+
+2004-07-03 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlist: viljoen.in niewoudt.in
+		- Identified build error in viljoen.in
+		- Major capitalisation fixes
+	* Wordlist: birds.in internetterms.in motorterms.in
+		- Removed excess whitespace
+
+2004-06-16 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlist: viljoen.in niewoudt.in
+		- Various fixes in capitalisation so that aspell will build
+
+2004-06-16 Dwayne Bailey <dwayne@translate.org.za>
+	* Version 20040616 released
+
+2004-05-31 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlist: viljoen.in internetterms.in motorterms.in
+		- Added Danie Viljoen's expanded Niewoudt list
+		- Converted inernetterms and motorterms to UTF-8
+
+2004-05-17 Dwayne Bailey <dwayne@translate.org.za>
+	* Worlists: internetterms.in motorterms.in
+		- Added Samuel Murray's Internet and Computer term list
+		- Added Samuel Murray's motor car and motor industry terms
+		- Changed roesyntjie -> rosyntjie
+
+2004-05-15 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: internet.AWS.in nieuwoudt.in wineterms.in carriculum-2005.in
+			birds.in
+		- Corrected faulty encoding in internet.AWS.in
+		- Commented out A4 from nieuwoudt most spellchecker would ignore
+		  capitals and numbers anyway and aspell can remain unchanged.
+		- Converted wineterms.in to UTF-8
+		- Added Carriculum 2005 education related words
+		- Corrected Volstruis entry in birds.in
+	* Aspell: info.in
+		- Allow 6 to appear in a word for V6-enjin
+
+2004-05-14 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: wordlist.fish.in wordlist.wineterms.in wordlist.birds.in
+	         wordlist.internet.in
+		- Added a list of Afrikaans common fish names from fishbase.org
+		- Added wine terms lists
+		- Added the list of birds from Roberts book of birds
+		- Added an intitial Internet terms list
+
+2004-05-13 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: wordlist.internet.AWS.in wordlist.otherwords.in
+		wordlist.nieuwoudt.in
+		- Added these new wordlists, moved the original wordlist to
+		  wordlist.nieuwoudt.in
+		- Changed to use new build system with multiple wordlist.*.in
+		- Moved all wordlists to wordlists/
+
+2004-05-07 Dwayne Bailey <dwayne@translate.org.za>
+	* Version 1.99.2 released
+	* Aspell: info.in
+		- Corrected "special" entry to handle 'n and A4-papier (somehow these
+		  got lost in the move to the new aspell build system)
+
+2004-04-29 Dwayne Bailey <dwayne@translate.org.za>
+	* Corrected affix TRY line
+	* Added MAP entries to affix file
+
+2004-03-21 Dwayne Bailey <dwayne@translate.org.za>
+	* Converted to use Makefile.language
+	* Added changes to aspell build to follow aspell build standards
+
+2004-01-06 Dwayne Bailey <dwayne@translate.org.za>
+	* Version 1.99.1 released
+
+2004-01-02 Dwayne Bailey <dwayne@translate.org.za>
+	* Aspell building:
+		- Added local aspell build
+		- Added aspell af.dat file
+		- Wordlist cleanups to get aspell to build
+		- Remove all "word-" from aspell input wordlist 
+	* Added: adjunk-hoofondewyskundige, adjunk-inligtingsbeamptes,
+		adjunk-voorsitter, sekretaris-generaal, adjunk-sekretaris-generaal,
+		adjunk-redakteur
+
+2003-12-29 Dwayne Bailey <dwayne@translate.org.za>
+	* Removed: woordprosesseringspr
+	* Changed: welliswaar -> weliswaar
+	* Ispell building:
+		- Updated Makefile to use buildhash to build the ispell.hash file
+		- Create LANGUAGE-VERSION.tar.bz2 for installation
+
+2003-12-24 Dwayne Bailey <dwayne@translate.org.za>
+	* Integrated ispell wordlist into main wordlist which involved:
+		- Removing words similar to XXX= from list
+		- Expanding some words with optional spellings
+		- belgie -> belgië, brasilie -> brasilië
+		- Remove anglo- and crme seems like a corruption
+	* In worldist but not ispell wordlist and not removed from main wordlist:
+		- anderdagmóore, nà
+	* In ispell and not added:
+		- crèche'e
+	* New words: 
+		- week, belg
+
+2003-12-09
+	* Build structure set up
+	* Version 1.9 released
+
+2003-11-25
+	* License converted to the LGPL to encourage unambiguous free use and to
+	  ensure the future growth of the list
+
+

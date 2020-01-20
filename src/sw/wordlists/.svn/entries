@@ -1,0 +1,54 @@
+8
+
+dir
+9599
+https://zaf.svn.sourceforge.net/svnroot/zaf/trunk/dict/sw/wordlists
+https://zaf.svn.sourceforge.net/svnroot/zaf
+
+
+
+2004-05-30T23:14:57.000000Z
+6846
+dwaynebailey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ddcbd3e-7f1e-0410-b01d-e1bca9a1112e
+
+wordlist.githeko.in
+file
+
+
+
+
+2007-11-23T10:33:11.000000Z
+8fe80ab137625ac170e0289d77b1ad63
+2004-05-30T22:23:49.000000Z
+6844
+dwaynebailey
+has-props
+
+wordlist.scannell.in
+file
+
+
+
+
+2007-11-23T10:33:11.000000Z
+a1bf3fa78665ad4d50597239ed8b4af3
+2004-05-30T23:14:57.000000Z
+6846
+dwaynebailey
+has-props
+

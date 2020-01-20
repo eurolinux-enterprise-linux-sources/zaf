@@ -1,0 +1,19 @@
+* Pacakges can contain hyph, spell and thes with various locales
+
+OLDER
+
+* Allow different encodings for input word lists (maybe specified in the wordlist)
+* Packaging:
+	- auto create debs
+	- auto create rpms
+* Specify different ways to use words in the wordlist.  Maybe regex based.  eg.
+  Abandon words that have spaces or split words with spaces.  Or if you see
+  this char then split the word otherwise drop.  This would allow us to have
+  complete wordlists and drop what we don't need.  If the spellcheckers catch
+  up then we still have the data.
+* Look at auto creation of docs.  Eg install instructions, version numbers
+  within docs.
+* Auto upload
+* Download in cases like en-ZA that use en-GB as source
+* Allow different wordlist preprocessing rules for each spellchecker type (eg
+  MySpell doesn't care about letters or strange characters while Aspell does)

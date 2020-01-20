@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Copyright 2006 Dwayne Bailey <dwayne@translate.org.za>
+# Licence: GPL
+
+# capitalisation-checker will find words that are in both a singular 
+# and capital form in the word lists.
+#
+# ./capitalisation-checker *.in
+#
+# ie 
+# ./capitalisation-checker files-to-check
+
+for word in `sort -u $* | uniq -id`
+do
+	echo Problem: $word
+	egrep -i "^$word$" $*
+done

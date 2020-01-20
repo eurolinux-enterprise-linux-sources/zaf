@@ -1,0 +1,99 @@
+8
+
+dir
+9599
+https://zaf.svn.sourceforge.net/svnroot/zaf/trunk/dict/ve
+https://zaf.svn.sourceforge.net/svnroot/zaf
+
+
+
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ddcbd3e-7f1e-0410-b01d-e1bca9a1112e
+
+myspell
+dir
+
+VERSION
+file
+
+
+
+
+2007-11-23T10:33:21.000000Z
+3197f2c212a481cefa4a650594e8da0a
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+has-props
+
+ChangeLog
+file
+
+
+
+
+2007-11-23T10:33:21.000000Z
+6a11d1cb463b3e24c5dac0136499df6c
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+has-props
+
+COPYING
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+7fbc338309ac38fefcd64b04bb903e34
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+has-props
+
+wordlists
+dir
+
+CREDITS
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+4c87694d2bfc3c205d524bc762bb6c46
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+has-props
+
+Makefile
+file
+
+
+
+
+2007-11-23T10:33:22.000000Z
+e2ff8dbcafa8eb2654dece68a2e5de9a
+2006-07-10T21:33:51.000000Z
+8871
+dwaynebailey
+has-props
+

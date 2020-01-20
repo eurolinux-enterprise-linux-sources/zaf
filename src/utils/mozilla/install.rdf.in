@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{LANG}-{REGION}@dictionaries.addons.mozilla.org</em:id>
+    <em:version>{VERSION}</em:version>
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>2.0b1</em:minVersion>
+        <em:maxVersion>2.0.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <em:targetApplication>
+      <Description>
+        <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+        <em:minVersion>2.0a1</em:minVersion>
+        <em:maxVersion>2.0.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <em:targetApplication>
+      <Description>
+        <em:id>{ed2213c0-3997-11db-a98b-0800200c9a66}</em:id>
+        <em:minVersion>1.1a</em:minVersion>
+        <em:maxVersion>1.1</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    <em:name>{LANGNAME} ({REGIONNAME}) dictionary</em:name>
+    <em:description>{LANGNAME} spell checker for Mozilla</em:description>
+    <em:creator>Translate.org.za</em:creator>
+    <em:homepageURL>http://www.translate.org.za/</em:homepageURL>
+ </Description>
+</RDF>

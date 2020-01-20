@@ -1,0 +1,55 @@
+2006-01-20 Dwayne Bailey <dwayne@translate.org.za>
+
+	* VERSION: bumped to 20060120
+	* Released MySpell, Aspell, acor
+
+2006-01-17 Dwayne Bailey <dwayne@translate.org.za>
+	* Acor: *
+		- Added en_ZA auto correction info for OpenOffice.org
+
+2005-09-09 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: en_GB.in sacod.in
+		- Updated to en_GB to 1.18, sorted correctly
+		- Added words validated against the South African Concise Oxford Dictionary
+	* MySpell: en_ZA.aff README_en_ZA.txt
+		- Updated to en_GB.aff 1.18
+		- More verbose based on README_af_ZA.txt
+	* VERSION: bumped to 20050909
+
+2004-09-01 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlist: various
+		- Minor corrections and new words
+
+2004-07-05 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: various
+		- Added boomslang and eliminated an HTML encoding
+	* Aspell: info.in
+		- Allow ' to appear at the end of a word
+	* Build: Makefile
+		- List of input wordlists is now generated and not a wildcard based
+		  list
+
+2004-05-30 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: various
+		- Checked, updated and added copyright notices
+		- Added South African words from various sources
+
+2004-05-29 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: various
+		- Corrections and minor additions
+		- Added ISO3166 countries to countrynames.in
+
+2004-05-16 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: fish.in postcodes.in
+		- Add header and attribution to fish.in
+		- Remove allcaps and some Afrikaans items from postcodes
+
+2004-05-15 Dwayne Bailey <dwayne@translate.org.za>
+	* Wordlists: en_GB.in
+		- Added British English wordlist from Myspell en_GB
+	* Wordlists: *.in
+		- Added all current wordlists
+	* MySpell: en_ZA.aff README_en_ZA.txt
+		- Initial import of en_GB items and rename
+	* Aspell: info.in Copyright
+		- Initial import of en_GB items

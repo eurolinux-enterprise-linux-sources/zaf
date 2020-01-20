@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/zaf/!svn/ver/9332/trunk/dict/en_ZA/myspell
+END
+README_en_ZA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/zaf/!svn/ver/9251/trunk/dict/en_ZA/myspell/README_en_ZA.txt
+END
+en_ZA.aff
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/zaf/!svn/ver/9332/trunk/dict/en_ZA/myspell/en_ZA.aff
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/zaf/!svn/ver/7863/trunk/dict/en_ZA/myspell/.cvsignore
+END
